@@ -1,1 +1,1 @@
-# events-practice
+# GA lab working on DOM events 
